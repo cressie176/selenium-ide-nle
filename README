@@ -22,7 +22,7 @@ tests can look less like
 and more like
 
 	initialise
-	load
+	load common-mappings, invoice-mappings
 	given an invoice DB-1 for £10,000.00 @ 15% that was raised on 05-Mar-09 and settled on 12-Mar-09
 	when I open the home page
 	and change the tax year to "01-Mar-09 to 28-Feb-10"
